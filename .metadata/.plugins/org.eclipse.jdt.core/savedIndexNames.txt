@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+D:\Leo Aiolia\Project\Programming\Java\ANDROID\002 - FFCardGame\.metadata\.plugins\org.eclipse.jdt.core
+3254539871.index
+740852482.index
+1609445237.index
+3701080207.index
+783142851.index
+3328314506.index
+1345617098.index
+51610724.index
+1128114483.index
+4082537798.index
+2890082671.index
+1787174850.index
+352446498.index
+1900990554.index
+3352491446.index
+3201398653.index
+807801552.index
+2793267240.index
+4032786600.index
